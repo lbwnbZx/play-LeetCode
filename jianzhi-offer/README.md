@@ -5,39 +5,39 @@
 
 | 序号 | 题目列表 | C实现 | Python实现 | Java实现 | 学习笔记 |
 |-|-|-|-|-|-|
-|面试题03|数组中重复的数字| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题04|二维数组中的查找| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题05|替换空格| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题06|从尾到头打印链表| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题07|重建二叉树| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题09|用两个栈实现队列| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题10- I|斐波那契数列| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题10- II|青蛙跳台阶问题| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题11|旋转数组的最小数字| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题12|矩阵中的路径| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题13|机器人的运动范围| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题14- I|剪绳子| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题14- II|剪绳子| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题15|二进制中1的个数| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题16|数值的整数次方| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题17|打印从1到最大的n位数| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题18|删除链表的节点| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题19|正则表达式匹配| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题20|表示数值的字符串| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题21|调整数组顺序使奇数位于偶数前面| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题22|链表中倒数第k个节点| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题24|反转链表| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题25|合并两个排序的链表| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题26|树的子结构| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题27|二叉树的镜像| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题28|对称的二叉树| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题29|顺时针打印矩阵| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题30|包含min函数的栈| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题31|栈的压入、弹出序列| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题32 - I|从上到下打印二叉树| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题32 - II|从上到下打印二叉树| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题32 - III |从上到下打印二叉树| [-](#) | [-](#) | [地址]() | [-](#) |
-|面试题33|二叉搜索树的后序遍历序列| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题03|数组中重复的数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/01%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.java) | [-](#) |
+|面试题04|二维数组中的查找| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/02%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.java) | [-](#) |
+|面试题05|替换空格| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/03%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.java) | [-](#) |
+|面试题06|从尾到头打印链表| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/04%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.java) | [-](#) |
+|面试题07|重建二叉树| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/05chong-jian-er-cha-shu.java) | [-](#) |
+|面试题09|用两个栈实现队列| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/06liang-ge-zhan-shi-xian-dui-lie.java) | [-](#) |
+|面试题10- I|斐波那契数列| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/07fei-bo-na-qi-shu-lie.java) | [-](#) |
+|面试题10- II|青蛙跳台阶问题| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/08qing-wa-tiao-tai-jie.java) | [-](#) |
+|面试题11|旋转数组的最小数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/09xuan-zhuan-shu-zu-de-zui-xiao-zhi.java) | [-](#) |
+|面试题12|矩阵中的路径| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/10ju-zhen-zhong-de-lu-jing.java) | [-](#) |
+|面试题13|机器人的运动范围| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/11ji-qi-ren-de-yun-dong-fan-wei.java) | [-](#) |
+|面试题14- I|剪绳子| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/12jian-sheng-zi.java) | [-](#) |
+|面试题14- II|剪绳子| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/13jian-sheng-zi-II.java) | [-](#) |
+|面试题15|二进制中1的个数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/14er-jin-zhi-zhong-1de-ge-shu.java) | [-](#) |
+|面试题16|数值的整数次方| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/15shu-zhi-de-zheng-shu-ci-fang.java) | [-](#) |
+|面试题17|打印从1到最大的n位数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/16da-yin-cong-1dao-zui-da-de-nwei-shu.java) | [-](#) |
+|面试题18|删除链表的节点| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/17shan-chu-lian-biao-de-jie-dian.java) | [-](#) |
+|面试题19|正则表达式匹配| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/18zheng-ze-biao-da-shi-pi-pei.java) | [-](#) |
+|面试题20|表示数值的字符串| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/19biao-shi-shu-zhi-de-zi-fu-chuan.java) | [-](#) |
+|面试题21|调整数组顺序使奇数位于偶数前面| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/20tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian.java) | [-](#) |
+|面试题22|链表中倒数第k个节点| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/21lian-biao-zhong-dao-shu-di-kge-jie-dian.java) | [-](#) |
+|面试题24|反转链表| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/22fan-zhuan-lian-biao.java) | [-](#) |
+|面试题25|合并两个排序的链表| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/23he-bing-liang-ge-pai-xu-de-lian-biao.java) | [-](#) |
+|面试题26|树的子结构| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/24shu-de-zi-jie-gou.java) | [-](#) |
+|面试题27|二叉树的镜像| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/25er-cha-shu-de-jing-xiang.java) | [-](#) |
+|面试题28|对称的二叉树| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/26dui-cheng-de-er-cha-shu.java) | [-](#) |
+|面试题29|顺时针打印矩阵| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/27shun-shi-zhen-da-yin-ju-zhen.java) | [-](#) |
+|面试题30|包含min函数的栈| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/28bao-han-minhan-shu-de-zhan.java) | [-](#) |
+|面试题31|栈的压入、弹出序列| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/29zhan-de-ya-ru-dan-chu-xu-lie.java) | [-](#) |
+|面试题32 - I|从上到下打印二叉树| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/30cong-shang-dao-xia-da-yin-er-cha-shu.java) | [-](#) |
+|面试题32 - II|从上到下打印二叉树| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/31cong-shang-dao-xia-da-yin-er-cha-shu-ii-.java) | [-](#) |
+|面试题32 - III |从上到下打印二叉树| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/32cong-shang-dao-xia-da-yin-er-cha-shu-iii.java) | [-](#) |
+|面试题33|二叉搜索树的后序遍历序列| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/33er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie.java) | [-](#) |
 |面试题34|二叉树中和为某一值的路径| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题35|复杂链表的复制| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题36|二叉搜索树与双向链表| [-](#) | [-](#) | [-]() | [-](#) |

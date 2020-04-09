@@ -40,7 +40,7 @@
 |面试题33|二叉搜索树的后序遍历序列| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/33er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie.java) | [-](#) |
 |面试题34|二叉树中和为某一值的路径| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/34er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing.java) | [-](#) |
 |面试题35|复杂链表的复制| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/35fu-za-lian-biao-de-fu-zhi.java) | [-](#) |
-|面试题36|二叉搜索树与双向链表| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题36|二叉搜索树与双向链表| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/36er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao.java) | [-](#) |
 |面试题37|序列化二叉树| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题38|字符串的排列| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题39|数组中出现次数超过一半的数字| [-](#) | [-](#) | [-]() | [-](#) |

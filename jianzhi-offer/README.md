@@ -46,7 +46,7 @@
 |面试题39|数组中出现次数超过一半的数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/39shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi.java) | [-](#) |
 |面试题40|最小的k个数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/40zui-xiao-de-kge-shu.java) | [-](#) |
 |面试题41|数据流中的中位数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/41shu-ju-liu-zhong-de-zhong-wei-shu.java) | [-](#) |
-|面试题42|连续子数组的最大和| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题42|连续子数组的最大和| [-](#) | [-](#) | [address](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/42lian-xu-zi-shu-zu-de-zui-da-he.java) | [-](#) |
 |面试题43|1～n整数中1出现的次数| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题44|数字序列中某一位的数字| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题45|把数组排成最小的数| [-](#) | [-](#) | [-]() | [-](#) |

@@ -50,9 +50,9 @@
 |面试题43|1～n整数中1出现的次数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/431nzheng-shu-zhong-1chu-xian-de-ci-shu.java) | [-](#) |
 |面试题44|数字序列中某一位的数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/44shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-z.java) | [-](#) |
 |面试题45|把数组排成最小的数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/45ba-shu-zu-pai-cheng-zui-xiao-de-shu.java) | [-](#) |
-|面试题46|把数字翻译成字符串| [-](#) | [-](#) | [-]() | [-](#) |
-|面试题47|礼物的最大价值| [-](#) | [-](#) | [-]() | [-](#) |
-|面试题48|最长不含重复字符的子字符串| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题46|把数字翻译成字符串| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/46ba-shu-zi-fan-yi-cheng-zi-fu-chuan.java) | [-](#) |
+|面试题47|礼物的最大价值| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/47li-wu-de-zui-da-jie-zhi.java) | [-](#) |
+|面试题48|最长不含重复字符的子字符串| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/48zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan.java) | [-](#) |
 |面试题49|丑数| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题50|第一个只出现一次的字符| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题51|数组中的逆序对| [-](#) | [-](#) | [-]() | [-](#) |

@@ -1,4 +1,4 @@
-//��̬�滮
+//动态规划
 class Solution {
     public int translateNum(int num) {
         String s = String.valueOf(num);

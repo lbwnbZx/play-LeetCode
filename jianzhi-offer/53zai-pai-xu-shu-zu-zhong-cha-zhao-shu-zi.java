@@ -1,4 +1,4 @@
-//¶þ·Ö·¨
+//äºŒåˆ†æ³•
 class Solution {
     public int search(int[] nums, int target) {
         int i=0,j=nums.length-1;

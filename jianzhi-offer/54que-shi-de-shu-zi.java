@@ -1,5 +1,5 @@
 /*
-//ÇóºÍ
+//æ±‚å’Œ
 class Solution {
     public int missingNumber(int[] nums) {
         int len = nums.length;
@@ -16,7 +16,7 @@ class Solution {
 */
 
 
-//¶þ·Ö·¨
+//äºŒåˆ†æ³•
 class Solution {
     public int missingNumber(int[] nums) {
         int i=0,j=nums.length-1;

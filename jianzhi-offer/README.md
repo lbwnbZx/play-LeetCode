@@ -57,8 +57,8 @@
 |面试题50|第一个只出现一次的字符| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/50di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu.java) | [-](#) |
 |面试题51|数组中的逆序对| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/51shu-zu-zhong-de-ni-xu-dui.java) | [-](#) |
 |面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/52liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian.java) | [-](#) |
-|面试题53 - I|在排序数组中查找数字| [-](#) | [-](#) | [-](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/53zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi.java) | [-](#) |
-|面试题53 - II|0～n| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题53 - I|在排序数组中查找数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/53zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi.java) | [-](#) |
+|面试题53 - II|0～n| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/54que-shi-de-shu-zi.java) | [-](#) |
 |面试题54|二叉搜索树的第k大节点| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题55 - I|二叉树的深度| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题55 - II|平衡二叉树| [-](#) | [-](#) | [-]() | [-](#) |

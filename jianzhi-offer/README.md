@@ -59,8 +59,8 @@
 |面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/52liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian.java) | [-](#) |
 |面试题53 - I|在排序数组中查找数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/53zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi.java) | [-](#) |
 |面试题53 - II|0～n| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/54que-shi-de-shu-zi.java) | [-](#) |
-|面试题54|二叉搜索树的第k大节点| [-](#) | [-](#) | [-]() | [-](#) |
-|面试题55 - I|二叉树的深度| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题54|二叉搜索树的第k大节点| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/55er-cha-sou-suo-shu-de-di-kda-jie-dian.java) | [-](#) |
+|面试题55 - I|二叉树的深度| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/56er-cha-shu-de-shen-du.java) | [-](#) |
 |面试题55 - II|平衡二叉树| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题56 - I|数组中数字出现的次数| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题56 - II|数组中数字出现的次数| [-](#) | [-](#) | [-]() | [-](#) |

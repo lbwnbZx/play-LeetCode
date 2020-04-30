@@ -62,7 +62,7 @@
 |面试题54|二叉搜索树的第k大节点| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/55er-cha-sou-suo-shu-de-di-kda-jie-dian.java) | [-](#) |
 |面试题55 - I|二叉树的深度| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/56er-cha-shu-de-shen-du.java) | [-](#) |
 |面试题55 - II|平衡二叉树| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/57ping-heng-er-cha-shu.java) | [-](#) |
-|面试题56 - I|数组中数字出现的次数| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题56 - I|数组中数字出现的次数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/58shu-zu-zhong-shu-zi-chu-xian-de-ci-shu.java) | [-](#) |
 |面试题56 - II|数组中数字出现的次数| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题57|和为s的两个数字| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题57 - II|和为s的连续正数序列| [-](#) | [-](#) | [-]() | [-](#) |

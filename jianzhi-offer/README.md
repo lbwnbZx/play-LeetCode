@@ -68,8 +68,8 @@
 |面试题57 - II|和为s的连续正数序列| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/61he-wei-sde-lian-xu-zheng-shu-xu-lie.java) | [-](#) |
 |面试题58 - I|翻转单词顺序| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/62fan-zhuan-dan-ci-shun-xu.java) | [-](#) |
 |面试题58 - II|左旋转字符串| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/63zuo-xuan-zhuan-zi-fu-chuan.java) | [-](#) |
-|面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [-]() | [-](#) |
-|面试题59 - II|队列的最大值| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/64hua-dong-chuang-kou-de-zui-da-zhi.java) | [-](#) |
+|面试题59 - II|队列的最大值| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/65dui-lie-de-zui-da-zhi.java) | [-](#) |
 |面试题60|n个骰子的点数| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题61|扑克牌中的顺子| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题62|圆圈中最后剩下的数字| [-](#) | [-](#) | [-]() | [-](#) |

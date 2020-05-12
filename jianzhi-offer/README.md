@@ -71,7 +71,7 @@
 |面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/64hua-dong-chuang-kou-de-zui-da-zhi.java) | [-](#) |
 |面试题59 - II|队列的最大值| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/65dui-lie-de-zui-da-zhi.java) | [-](#) |
 |面试题60|n个骰子的点数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/66nge-tou-zi-de-dian-shunge-tou-zi-de-dian-shu.java) | [-](#) |
-|面试题61|扑克牌中的顺子| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题61|扑克牌中的顺子| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/67bu-ke-pai-zhong-de-shun-zi.java) | [-](#) |
 |面试题62|圆圈中最后剩下的数字| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题63|股票的最大利润| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题64|求1| [-](#) | [-](#) | [-]() | [-](#) |

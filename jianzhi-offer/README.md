@@ -74,7 +74,7 @@
 |面试题61|扑克牌中的顺子| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/67bu-ke-pai-zhong-de-shun-zi.java) | [-](#) |
 |面试题62|圆圈中最后剩下的数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/68yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi.java) | [-](#) |
 |面试题63|股票的最大利润| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/69gu-piao-de-zui-da-li-run.java) | [-](#) |
-|面试题64|求1| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题64|求1| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/70qiu-12n.java) | [-](#) |
 |面试题65|不用加减乘除做加法| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题66|构建乘积数组| [-](#) | [-](#) | [-]() | [-](#) |
 |面试题67|把字符串转换成整数| [-](#) | [-](#) | [-]() | [-](#) |

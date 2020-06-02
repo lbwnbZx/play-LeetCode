@@ -76,7 +76,7 @@
 |面试题63|股票的最大利润| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/69gu-piao-de-zui-da-li-run.java) | [-](#) |
 |面试题64|求1| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/70qiu-12n.java) | [-](#) |
 |面试题65|不用加减乘除做加法| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/71bu-yong-jia-jian-cheng-chu-zuo-jia-fa.java) | [-](#) |
-|面试题66|构建乘积数组| [-](#) | [-](#) | [-]() | [-](#) |
-|面试题67|把字符串转换成整数| [-](#) | [-](#) | [-]() | [-](#) |
-|面试题68 - I|二叉搜索树的最近公共祖先| [-](#) | [-](#) | [-]() | [-](#) |
-|面试题68 - II|二叉树的最近公共祖先| [-](#) | [-](#) | [-]() | [-](#) |
+|面试题66|构建乘积数组| [-](#) | [-](#) | [-](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/72gou-jian-cheng-ji-shu-zu.java) | [-](#) |
+|面试题67|把字符串转换成整数| [-](#) | [-](#) | [-](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/73ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu.java) | [-](#) |
+|面试题68 - I|二叉搜索树的最近公共祖先| [-](#) | [-](#) | [-](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/74er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.java) | [-](#) |
+|面试题68 - II|二叉树的最近公共祖先| [-](#) | [-](#) | [-](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/75er-cha-shu-de-zui-jin-gong-gong-zu-xian.java) | [-](#) |

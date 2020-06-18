@@ -15,6 +15,7 @@
 |size()||
 
 - Set最常用的两大实现： HashSet、TreeSet
+- TreeSet会将元素默认排序
 
 # 02
 - 数组长度的length不需要加括号，String.length()要加括号

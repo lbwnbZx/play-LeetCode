@@ -18,7 +18,7 @@ class Solution {
             if (pos+i > s.length()) break;
             String segment = s.substring(pos, pos+i);
             // 剪枝条件：不能以0开头，不能大于255
-            if (segment.startsWith("0") && segment.length() > 1 || (i == 3 && Integer.parseInt(segment) > 255))                     continue;
+            if (segment.startsWith("0") && segment.length() > 1 || (i == 3 && Integer.parseInt(segment) > 255))     continue;
             cur.add(segment);
             // 注意此处传的参数
             backtracking(s, pos+i, cur, ans);

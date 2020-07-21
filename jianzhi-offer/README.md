@@ -5,8 +5,8 @@
 
 | 序号 | 题目列表 | C实现 | Python实现 | Java实现 | 学习笔记 |
 |-|-|-|-|-|-|
-|面试题03|数组中重复的数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/01%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.java) | [-](#) |
-|面试题04|二维数组中的查找| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/02%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.java) | [-](#) |
+|面试题03|数组中重复的数字| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/03.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/01%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.java) | [-](#) |
+|面试题04|二维数组中的查找| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/04.%20%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/02%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.java) | [-](#) |
 |面试题05|替换空格| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/03%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.java) | [-](#) |
 |面试题06|从尾到头打印链表| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/04%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.java) | [-](#) |
 |面试题07|重建二叉树| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/05chong-jian-er-cha-shu.java) | [-](#) |

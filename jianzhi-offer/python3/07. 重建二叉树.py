@@ -1,6 +1,6 @@
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> TreeNode:
-        self.dic, self.po = {}, preorder
+        self.dic, self.po = {}, preorder # python中的字典{}
         for i in range(len(inorder)):
             self.dic[inorder[i]] = i
         return self.recur(0, 0, len(inorder) - 1)

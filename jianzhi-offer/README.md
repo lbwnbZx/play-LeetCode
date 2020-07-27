@@ -12,12 +12,12 @@
 |面试题07|重建二叉树| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/07.%20%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/05chong-jian-er-cha-shu.java) | [-](#) |
 |面试题09|用两个栈实现队列| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/09.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/06liang-ge-zhan-shi-xian-dui-lie.java) | [-](#) |
 |面试题10- I|斐波那契数列| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/10-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/07fei-bo-na-qi-shu-lie.java) | [-](#) |
-|面试题10- II|青蛙跳台阶问题| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/08qing-wa-tiao-tai-jie.java) | [-](#) |
+|面试题10- II|青蛙跳台阶问题| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/10-%20II.%20%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/08qing-wa-tiao-tai-jie.java) | [-](#) |
 |面试题11|旋转数组的最小数字| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/09xuan-zhuan-shu-zu-de-zui-xiao-zhi.java) | [-](#) |
 |面试题12|矩阵中的路径| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/10ju-zhen-zhong-de-lu-jing.java) | [-](#) |
 |面试题13|机器人的运动范围| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/11ji-qi-ren-de-yun-dong-fan-wei.java) | [-](#) |
 |面试题14- I|剪绳子| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/12jian-sheng-zi.java) | [-](#) |
-|面试题14- II|剪绳子| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/13jian-sheng-zi-II.java) | [-](#) |
+|面试题14- II|剪绳子| [-](#) | [-](#) | [地https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/10-%20II.%20%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.py址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/13jian-sheng-zi-II.java) | [-](#) |
 |面试题15|二进制中1的个数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/14er-jin-zhi-zhong-1de-ge-shu.java) | [-](#) |
 |面试题16|数值的整数次方| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/15shu-zhi-de-zheng-shu-ci-fang.java) | [-](#) |
 |面试题17|打印从1到最大的n位数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/16da-yin-cong-1dao-zui-da-de-nwei-shu.java) | [-](#) |

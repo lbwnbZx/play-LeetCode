@@ -18,8 +18,8 @@
 |面试题13|机器人的运动范围| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/13.%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/11ji-qi-ren-de-yun-dong-fan-wei.java) | [-](#) |
 |面试题14- I|剪绳子| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/14-%20I.%20%E5%89%AA%E7%BB%B3%E5%AD%90.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/12jian-sheng-zi.java) | [-](#) |
 |面试题14- II|剪绳子| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/14-%20II.%20%E5%89%AA%E7%BB%B3%E5%AD%90%20II.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/13jian-sheng-zi-II.java) | [-](#) |
-|面试题15|二进制中1的个数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/14er-jin-zhi-zhong-1de-ge-shu.java) | [-](#) |
-|面试题16|数值的整数次方| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/15shu-zhi-de-zheng-shu-ci-fang.java) | [-](#) |
+|面试题15|二进制中1的个数| [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode-NowCoder/blob/master/jianzhi-offer/python3/15.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.py) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/14er-jin-zhi-zhong-1de-ge-shu.java) | [-](#) |
+|面试题16|数值的整数次方| [-](#) | [地址]() | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/15shu-zhi-de-zheng-shu-ci-fang.java) | [-](#) |
 |面试题17|打印从1到最大的n位数| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/16da-yin-cong-1dao-zui-da-de-nwei-shu.java) | [-](#) |
 |面试题18|删除链表的节点| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/17shan-chu-lian-biao-de-jie-dian.java) | [-](#) |
 |面试题19|正则表达式匹配| [-](#) | [-](#) | [地址](https://github.com/lbwnbZx/play-LeetCode/blob/master/jianzhi-offer/18zheng-ze-biao-da-shi-pi-pei.java) | [-](#) |

@@ -1,6 +1,3 @@
-# 只出现一次的数字
-
-
 class Solution:
     def singleNumbers(self, nums: List[int]) -> List[int]:
         ret, a, b = 0, 0, 0 # ret 为所有数字异或的结果

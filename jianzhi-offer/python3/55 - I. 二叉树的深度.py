@@ -18,3 +18,15 @@ class Solution:
             queue = temp
             res += 1
         return res  
+
+
+# 递归
+
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:       
+        if not root : return 0
+        else:
+            l = self.maxDepth(root.left)
+            r = self.maxDepth(root.right)
+
+        return max(l, r)+1  

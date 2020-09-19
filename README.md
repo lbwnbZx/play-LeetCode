@@ -11,4 +11,6 @@ One step at a time leads to a thousand miles.
 
 [探索字节跳动](https://github.com/lbwnbZx/play-LeetCode/tree/master/tansuo-bytedance) `2020-6-17` -> `2020-7-20`
 
+二刷[剑指offer](https://github.com/lbwnbZx/play-LeetCode-NowCoder/tree/master/jianzhi-offer/python3) `2020-07-21`->`2020-09-19`  论文需要用python,所以这次用python3写的。
+
 有时候会被沿途的风景迷住了步伐，但我们终究会再次上路。

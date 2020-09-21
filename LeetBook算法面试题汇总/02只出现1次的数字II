@@ -1,0 +1,24 @@
+/*
+方法一：HashSet
+3*(a+b+c)-(a+a+a+b+b+b+c+c) = 2c
+方法二：HashMap
+方法三：位运算符：NOT，AND 和 XOR
+如果所有数字都出现了3次，那么每一列的1的个数都是3的倍数，之所以有不是3的倍数的列，是因为只出现了一次的数贡献了1，所以把不是3的倍数的列写成1，其他列写成0，就找到了这个出现了1次的数。
+*/ 
+class Solution {
+    public int singleNumber(int[] nums) {
+        int res = 0;
+        for(int i = 0; i < 32; i ++){
+            int count = 0;
+            for(int j = 0; j < nums.length ; j++){
+                // >>> 无符号右移，空位都补0
+                if((nums[j]>>> i & 1) == 1) count++;
+
+            }
+            if(count % 3 != 0){
+                res = res | 1 << i ;
+            }
+        }
+        return res;
+    }
+}

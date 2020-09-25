@@ -1,32 +1,45 @@
 class Solution {
-   public List<List<String>> partition(String s) {
-    boolean[][] dp = new boolean[s.length()][s.length()];
-    int length = s.length();
-    for (int len = 1; len <= length; len++) {
-        for (int i = 0; i <= s.length() - len; i++) {
-            dp[i][i + len - 1] = s.charAt(i) == s.charAt(i + len - 1) && (len < 3 || dp[i + 1][i + len - 2]);
+    private List<List<String>> ret = new ArrayList<>(); 
+    public List<List<String>> partition(String s) {
+        if(s.length() == 0){
+            return ret;
         }
-    }
-    List<List<String>> ans = new ArrayList<>();
-    partitionHelper(s, 0, dp, new ArrayList<>(), ans);
-    return ans;
-}
+        List<String> already = new ArrayList<>();
+        backtracking(already, s, 0);
+        return ret;
 
-private void partitionHelper(String s, int start, boolean[][] dp, List<String> temp, List<List<String>> res) {
-    //到了空串就加到最终的结果中
-    if (start == s.length()) {
-        res.add(new ArrayList<>(temp));
-    }
-    //在不同位置切割
-    for (int i = start; i < s.length(); i++) {
-        //如果是回文串就加到结果中
-        if (dp[start][i]) {
-            String left = s.substring(start, i + 1);
-            temp.add(left);
-            partitionHelper(s, i + 1, dp, temp, res);
-            temp.remove(temp.size() - 1);
-        }
 
     }
-}
+    private void backtracking(List<String> already, String s, int start){
+        if(start == s.length()){
+            ret.add(new ArrayList<>(already));
+            return;
+        }
+        for(int i = start + 1; i <= s.length(); i++){
+            String tem = s.substring(start, i);
+            if(isValid(tem)){
+                already.add(tem);
+                backtracking(already, s, i);
+                already.remove(already.size() - 1);
+            }
+        }
+        return;
+    }
+    // 判断一个字符串是否为回文串
+    private boolean isValid(String s){
+        if(s.length() == 1){
+            return true;
+        }
+        // 两个指针，分别指向字符串首和尾
+        int p1 = 0;
+        int p2 = s.length() - 1;
+        while(p2 > p1){
+            if(s.charAt(p1) != s.charAt(p2)){
+                return false;
+            }
+            p2--;
+            p1++;
+        }
+        return true;
+    }
 }

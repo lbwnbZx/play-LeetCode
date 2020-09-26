@@ -1,0 +1,38 @@
+/*
+动态规划算法，dp[i]表示前i个字符能否拆分
+转移方程：dp[j] = dp[i]&& check[s[i+1],j]
+
+假如wordDict=["apple", "pen", "code"],s = "applepencode";
+    dp[8] = dp[5] + check("pen")
+前八位能否拆分取决于前五位能否拆分，加上五到八位是否属于字典
+
+这道题的遍历顺序稍微有点窍门，就是：要判断dp[j]，最好按照 dp[j-1]&&check() -> dp[j-2]&&check -> dp[0]&&check()这个顺序,理由很简单，这样的话check的部分就相当于判断单词是否存在
+i的顺序是从j-1 -> 0
+*/
+class Solution {
+    public HashMap<String ,Boolean> hash = new HashMap<>();
+
+    public boolean wordBreak(String s, List<String> wordDict) {
+        boolean []dp = new boolean[s.length()+1];
+
+        //方便check，构建hash表
+        for(String word:wordDict){
+            hash.put(word,true);
+        }
+        //初始化
+        dp[0]= true;
+        
+        //遍历
+        for(int j = 1; j<=s.length();j++){
+            for(int i = j-1;i>=0;i-- ){
+                dp[j] = dp[i] && check(s.substring(i,j));
+                if(dp[j]) break;
+            }
+        }
+        return dp[s.length()];
+
+    }
+    public boolean check(String s){
+        return hash.getOrDefault(s,false);
+    }
+}

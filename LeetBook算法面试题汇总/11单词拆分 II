@@ -1,0 +1,24 @@
+class Solution {
+    public List<String> wordBreak(String s, List<String> wordDict) {
+        int max_len = 0;
+        for (String word : wordDict) max_len = Math.max(max_len, word.length());
+        return helper(s, max_len, wordDict, new HashMap<String, LinkedList<String>>());
+    }
+
+    private List<String> helper(String s, int max_len, List<String> wordDict, HashMap<String, LinkedList<String>> cache) {
+        if (cache.containsKey(s)) return cache.get(s);
+        LinkedList<String> res = new LinkedList<>();
+        if (s.length() == 0) {
+            res.add("");
+            return res;
+        }
+        for (int i = 0; i < s.length(); i++) {
+            if (i < max_len && wordDict.contains(s.substring(0, i + 1))) {
+                for (String tmp : helper(s.substring(i + 1), max_len, wordDict, cache))
+                    res.add(s.substring(0, i + 1) + (tmp.isEmpty() ? "" : " ") + tmp);
+            }
+        }
+        cache.put(s, res);
+        return res;
+    }
+}

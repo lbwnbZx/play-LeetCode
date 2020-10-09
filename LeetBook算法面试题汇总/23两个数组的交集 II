@@ -1,0 +1,28 @@
+/*先进行排序，两个指针f1和f2分别指向两个数组。
+若nums1[f1] < nums2[f2],f1移动1位,若nums1[f1]>nums[f2],f2移动一位，若两个相等，则便找到了这两个数组的交集之一，加入到动态数组中
+*/
+
+class Solution {
+    public int[] intersect(int[] nums1, int[] nums2) {
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
+        int f1 = 0 , f2 = 0;
+        ArrayList<Integer> list = new ArrayList<>();
+        while(f1 < nums1.length && f2 < nums2.length){
+            if(nums1[f1] < nums2[f2]){
+                f1++;
+            }else if(nums1[f1] > nums2[f2]){
+                f2++;
+            }else{
+                list.add(nums1[f1]);
+                f1++;
+                f2++;
+            }
+        }
+        int []res = new int[list.size()];
+        for(int i = 0;i < list.size() ;i++){
+            res[i] = list.get(i);
+        } 
+        return res;
+    }
+}

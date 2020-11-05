@@ -1,0 +1,32 @@
+class Solution {
+    private class LargerNumberComparator implements Comparator<String>{
+        @Override
+        public int compare(String a ,String b){
+            String order1 = a + b;
+            String order2 = b + a;
+            return order2.compareTo(order1);
+
+        }
+    }
+
+    public String largestNumber(int[] nums) {
+        //将integer转化为String
+        String [] asStrs = new String[nums.length];
+        for(int i = 0;i < nums.length ; i++){
+            asStrs[i] = String.valueOf(nums[i]);
+        }
+
+        //根据自定义的比较器排序字符串
+        Arrays.sort(asStrs, new LargerNumberComparator());
+
+        //排序后如果第一个是0，则返回0
+        if(asStrs[0].equals("0")) return "0";
+
+        String res = new String();
+        for(String str : asStrs){
+            res +=str;
+        }
+
+        return res;
+    }
+}

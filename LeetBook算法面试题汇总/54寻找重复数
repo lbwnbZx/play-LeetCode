@@ -1,0 +1,22 @@
+/*
+快慢指针
+将这个数组当做一个链表，数组的下标就是指向元素的指针，将数组的元素也看做指针
+*/  
+class Solution {
+    public int findDuplicate(int[] nums) {
+        int slow = nums[0];
+        int fast = nums[nums[0]];
+        //寻找相遇点
+        while(slow !=fast){
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }
+        //slow从起点出发，fast从相遇点出发，一次走一步
+        slow = 0;
+        while (slow != fast) {
+        slow = nums[slow];
+        fast = nums[fast];
+    }
+    return slow;
+    }
+}

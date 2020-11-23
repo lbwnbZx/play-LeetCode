@@ -1,0 +1,10 @@
+//异或，相同为0，不同为1
+class Solution {
+    public int singleNumber(int[] nums) {
+        int res = 0;
+        for(int num:nums){
+            res = res^num;
+        }
+        return res;
+    }
+}

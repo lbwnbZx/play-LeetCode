@@ -1,0 +1,14 @@
+//n!最多可以分解出来多少个2和5，因为每个偶数都可以分出来2，所以转化为找5的个数
+class Solution {
+    public int trailingZeroes(int n) {
+       int res = 0;
+       for(int i = 5; i <= n; i += 5){
+           int cur = i;
+           while(cur % 5 == 0){
+               res++;
+               cur /= 5;
+           }
+       }
+       return res;
+    }
+}

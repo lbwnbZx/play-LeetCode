@@ -13,7 +13,9 @@ One step at a time leads to a thousand miles.
 
 二刷[剑指offer](https://github.com/lbwnbZx/play-LeetCode-NowCoder/tree/master/jianzhi-offer/python3) `2020-07-21`->`2020-09-19`  论文需要用python,所以这次用python3写的。
 
-[LeetBook算法面试题汇总](https://github.com/lbwnbZx/play-LeetCode-NowCoder/tree/master/LeetBook%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B1%87%E6%80%BB)   `2020-09-21`->    [LeetCode地址](https://leetcode-cn.com/leetbook/detail/top-interview-questions/)
+[LeetBook算法面试题汇总](https://github.com/lbwnbZx/play-LeetCode-NowCoder/tree/master/LeetBook%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B1%87%E6%80%BB)   `2020-09-21`->`2020-11-26`    [LeetCode地址](https://leetcode-cn.com/leetbook/detail/top-interview-questions/)
+
+三刷[剑指offer](https://github.com/lbwnbZx/play-LeetCode-NowCoder/tree/master/jianzhi-offer_3)  `2020-11-27`->`--`   [牛客地址](https://www.nowcoder.com/ta/coding-interviews)
 
 
 有时候会被沿途的风景迷住了步伐，但我们终究会再次上路。

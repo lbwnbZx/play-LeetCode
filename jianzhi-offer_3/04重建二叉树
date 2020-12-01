@@ -1,0 +1,29 @@
+/**
+ * Definition for binary tree
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+import java.util.Arrays;
+public class Solution {
+    public TreeNode reConstructBinaryTree(int [] pre,int [] in) {
+        if(pre.length < 1) return null;
+        
+        int rootValue = pre[0];
+        int rootIndex = 0; //root结点在中序遍历中的位置
+        
+        for(int i : in){
+            if(i == rootValue) break;
+            rootIndex++;
+        }
+      
+        TreeNode root = new TreeNode(rootValue);
+        
+        root.left = reConstructBinaryTree(Arrays.copyOfRange(pre,1,rootIndex+1),Arrays.copyOfRange(in,0,rootIndex));
+        root.right = reConstructBinaryTree(Arrays.copyOfRange(pre,rootIndex+1,pre.length),Arrays.copyOfRange(in,rootIndex+1,in.length));
+        return root;
+    }
+}

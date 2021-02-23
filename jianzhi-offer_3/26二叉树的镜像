@@ -7,6 +7,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+ /*
 class Solution {
     public TreeNode mirrorTree(TreeNode root) {
         if(root == null) return null;
@@ -16,6 +17,23 @@ class Solution {
         mirrorTree(root.left);
         mirrorTree(root.right);
         return root;
+    } 
+}
+*/
+class Solution {
+    public TreeNode mirrorTree(TreeNode root) {
+        if(root == null) return null;
+        Stack<TreeNode> stack = new Stack<>();
+        stack.add(root);
+        while(!stack.isEmpty()){
+            TreeNode node = stack.pop();
+            if(node.left != null) stack.add(node.left);
+            if(node.right != null) stack.add(node.right);
+
+            TreeNode temp = node.left;
+            node.left = node.right;
+            node.right = temp;
+        }
+        return root;
     }
-    
 }
